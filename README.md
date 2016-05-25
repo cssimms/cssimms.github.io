@@ -1,3 +1,8 @@
+# Personal Webpage
+
+Excluding small tweaks for my personal use, credit for this beautiful template goes to HTML5 UP, read below for more details.
+
+
 Read Only by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
