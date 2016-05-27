@@ -2573,10 +2573,10 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/pic01.jpg");
+		background-image: url("../../images/blue_geo_background.png");
 		background-position: top right;
-		background-repeat: no-repeat;
-		background-size: cover;
+		background-repeat: inherit;
+		background-size: initial;
 		content: '';
 		display: block;
 		height: 15em;
