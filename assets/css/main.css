@@ -45,6 +45,7 @@
 		-webkit-text-size-adjust: none;
 		background: var(--main-bg-color);
 		line-height: 1;
+    text-align: center;
 	}
 
 /* Box Model */
