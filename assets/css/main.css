@@ -97,6 +97,10 @@
     position: relative;
   }
 
+  .profile {
+    border-radius: 10rem;
+  }
+
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
