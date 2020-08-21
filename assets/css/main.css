@@ -88,12 +88,12 @@
   #background-charlie {
     position: flex;
     top: 0px;
-    right: 0px;
+		right: 0px;
+		min-width: 25%;
     image-rendering: pixelated;
-    min-width: 50%;
   }
 
-  .charlie-container { 
+  .charlie-container {
     position: relative;
   }
 
@@ -2254,4 +2254,3 @@
 			#main > section > .container {
 				padding: 2em 0 0 0;
 			}
-
